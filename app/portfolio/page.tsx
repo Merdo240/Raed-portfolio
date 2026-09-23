@@ -16,10 +16,10 @@ type PortfolioGroup = {
    ضع روابط الصور الخاصة بك هنا
    ========================================================= */
 
-   const BRAND_LOGO_URL = "";
-   const HERO_MAIN_IMAGE_URL = "";
+   const BRAND_LOGO_URL = "https://raw.githubusercontent.com/Merdo240/Raed-portfolio/main/assets/Logo.png";
+  const HERO_MAIN_IMAGE_URL = "";
    const HERO_DECORATION_URL = "";
-const HERO_SMALL_LOGO_URL = "";
+const HERO_SMALL_LOGO_URL = "https://raw.githubusercontent.com/Merdo240/Raed-portfolio/main/assets/Logo.png";
 
 /* صورة إضافية اختيارية للعنصر العائم */
 const HERO_FLOATING_IMAGE_URL = "";
@@ -1009,7 +1009,7 @@ export default async function PortfolioPage() {
 
 
         <a
-          href="mailto:hello@raed-advertising.com"
+          href="https://wa.me/967770282271"
           className="group mt-9 inline-flex items-center gap-4 rounded-xl bg-[#071A2F] px-7 py-4 text-sm font-bold text-white shadow-xl transition duration-300 hover:-translate-y-1 hover:bg-[#123B70]"
         >
 

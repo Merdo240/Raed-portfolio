@@ -5,7 +5,7 @@ import Image from "next/image";
    ضع روابطك هنا
    ========================================================= */
 
-const BRAND_LOGO_URL = "";
+const BRAND_LOGO_URL = "https://raw.githubusercontent.com/Merdo240/Raed-portfolio/main/assets/Logo.png";
 const HOME_HERO_IMAGE_URL = "";
 const HOME_DECORATION_URL = "";
 
@@ -529,7 +529,7 @@ export default function Home() {
             </h2>
 
             <a
-              href="mailto:hello@raed-advertising.com"
+              href="https://wa.me/967770282271"
               className="mt-8 inline-flex rounded-lg bg-[#071A2F] px-7 py-4 text-sm font-bold text-white transition hover:bg-[#123B70]"
             >
               Get in touch →
