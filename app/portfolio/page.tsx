@@ -1,4 +1,5 @@
 import db from "@/lib/db";
+export const dynamic = "force-dynamic";
 
 type PortfolioGroup = {
   id: number;
